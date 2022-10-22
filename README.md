@@ -16,24 +16,24 @@ nao tente executar todas as rotas no local host pois nao tera acesso ao banco de
 
 ### company
 
-GET - localhost:4000/getcompany - segura.
-PUT - localhost:4000/createcompany - segura.
-POST - localhost:4000/updatecompany - segura.
-DELETE - localhost:4000/deletecompany - segura.
+<div>GET - localhost:4000/getcompany - segura.</div>
+<div>PUT - localhost:4000/createcompany - segura.</div>
+<div>POST - localhost:4000/updatecompany - segura.</div>
+<div>DELETE - localhost:4000/deletecompany - segura.</div>
 
-GET - localhost:4000/getlocation - segura.
-GET - localhost:4000/getlocations - segura.
-PUT - localhost:4000/createlocation - segura.
-POST - localhost:4000/updatelocation - segura.
-DELETE - localhost:4000/deletelocation - segura.
+<div>GET - localhost:4000/getlocation - segura.</div>
+<div>GET - localhost:4000/getlocations - segura.</div>
+<div>PUT - localhost:4000/createlocation - segura.</div>
+<div>POST - localhost:4000/updatelocation - segura.</div>
+<div>DELETE - localhost:4000/deletelocation - segura.</div>
 
-POST - localhost:4000/login
-POST - localhost:4000/logout
+<div>POST - localhost:4000/login</div>
+<div>POST - localhost:4000/logout</div>
 
-GET - localhost:4000/getusers - segura.
-PUT - localhost:4000/createuser - segura.
-POST - localhost:4000/updateuser - segura.
-DELETE - localhost:4000/deleteuser - segura.
+<div>GET - localhost:4000/getusers - segura.</div>
+<div>PUT - localhost:4000/createuser - segura.</div>
+<div>POST - localhost:4000/updateuser - segura.</div>
+<div>DELETE - localhost:4000/deleteuser - segura.</div>
 
 ### executar o projeto.
 
